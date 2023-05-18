@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+.clock {
+  display: flex;
+}
+.clock-icon {
+  font-size: 60px;
+}
+.number {
+  font-size: 60px;
+}
+
+.card {
+  background: black;
+  padding: 2rem;
+  margin: 1rem;
+}
+.button {
+  justify-content: center;
+  margin: 10px;
+  display: inline-block;
+}

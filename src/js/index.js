@@ -1,7 +1,7 @@
 //import react into the bundle
 import React from "react";
 import ReactDOM from "react-dom";
-
+import CountDown from "./component/SecondCounter.jsx";
 // include your styles into the webpack bundle
 import "../styles/index.css";
 
